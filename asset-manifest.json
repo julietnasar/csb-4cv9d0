@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://julietnasar.github.io/csb-4cv9d0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://julietnasar.github.io/csb-4cv9d0/static/js/main.ce07bdc7.chunk.js",
+    "main.js.map": "https://julietnasar.github.io/csb-4cv9d0/static/js/main.ce07bdc7.chunk.js.map",
+    "runtime-main.js": "https://julietnasar.github.io/csb-4cv9d0/static/js/runtime-main.7f85ea0e.js",
+    "runtime-main.js.map": "https://julietnasar.github.io/csb-4cv9d0/static/js/runtime-main.7f85ea0e.js.map",
+    "static/js/2.39e07399.chunk.js": "https://julietnasar.github.io/csb-4cv9d0/static/js/2.39e07399.chunk.js",
+    "static/js/2.39e07399.chunk.js.map": "https://julietnasar.github.io/csb-4cv9d0/static/js/2.39e07399.chunk.js.map",
+    "index.html": "https://julietnasar.github.io/csb-4cv9d0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://julietnasar.github.io/csb-4cv9d0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.39e07399.chunk.js.LICENSE.txt": "https://julietnasar.github.io/csb-4cv9d0/static/js/2.39e07399.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f85ea0e.js",
+    "static/js/2.39e07399.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ce07bdc7.chunk.js"
+  ]
+}
